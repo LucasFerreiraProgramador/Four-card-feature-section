@@ -1,13 +1,17 @@
-# Four Card Feature Section 📊
+# Four Card Feature Section
 
-Projeto front-end desenvolvido por **Lucas Ferreira Silva** como exercício prático
-para aprimorar habilidades em construção de layouts responsivos e componentização com CSS.
+Uma seção de recursos (feature section) desenvolvida com foco em organização de layout, responsividade e boas práticas de estruturação com HTML e CSS.  
+O projeto apresenta quatro cards com destaque para diferentes funcionalidades, seguindo um layout moderno e organizado.
+
+🔗 Acesse o projeto:  
+https://lucasferreiraprogramador.github.io/Four-card-feature-section/
 
 ---
 
-## 🚀 Tecnologias utilizadas
-- HTML5
-- CSS3
+## Tecnologias Utilizadas
+
+- HTML5 — estrutura semântica  
+- CSS3 — layout, responsividade e estilos  
 
 ---
 
@@ -28,6 +32,10 @@ Projeto desenvolvido com fins educacionais, integrando o portfólio pessoal
 durante a formação em **Análise e Desenvolvimento de Sistemas**.
 
 ---
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
+- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
 
 ## 📝 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
